@@ -1,3 +1,3 @@
 login-logout react app
 
-![Github Logo] (/public/Screen Shot 2019-09-08 at 10.59.48 PM.png)
+![alt text] (https://github.com/urakymzhan/react-loginOut/blob/master/public/Screen%20Shot%202019-09-08%20at%2010.59.48%20PM.png)
